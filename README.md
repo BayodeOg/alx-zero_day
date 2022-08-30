@@ -1,2 +1,2 @@
 My first readme
-I'm enjoyinhg this progress
+I'm enjoying this progress
